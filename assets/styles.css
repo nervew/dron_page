@@ -1,0 +1,4 @@
+/* assets/styles.css */
+/* Ajustes específicos no cubiertos por Tailwind */
+.filter-btn.active{background:#1d4ed8;color:#fff;}
+#lightbox img{box-shadow:0 0 10px rgba(0,0,0,0.5);} 
